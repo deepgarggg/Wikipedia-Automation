@@ -13,6 +13,19 @@ public class App {
         //TODO: call your test case functions one after other here
 
         tests.testCase01();
+        System.out.println("");
+        tests.testCase02();
+        System.out.println("");
+
+        tests.testCase03();
+        System.out.println("");
+
+        tests.testCase04();
+        System.out.println("");
+
+        tests.testCase05();
+        System.out.println("");
+
 
         //END Tests
 
